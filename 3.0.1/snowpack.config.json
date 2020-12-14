@@ -1,0 +1,9 @@
+{
+    "mount": {
+      "src": "/dist",
+      ".":"/"
+    },
+    "devOptions": {
+      "port": 9090
+    }
+  }
